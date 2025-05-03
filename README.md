@@ -9,30 +9,30 @@ The dataset used is winequality-red.csv, containing various chemical properties 
 # Models Implemented
 The following regression models are explored:
 
-Linear Regression
-Multiple Linear Regression
-Decision Tree Regressor
-Support Vector Regression (SVR)
+Linear Regression,
+Multiple Linear Regression,
+Decision Tree Regressor,
+Support Vector Regression (SVR),
 Multi-Layer Perceptron (MLP) Regressor
 
 # Evaluation Metrics
 The models are evaluated using:
 
-Mean Absolute Error (MAE)
-Root Mean Squared Error (RMSE)
+Mean Absolute Error (MAE),
+Root Mean Squared Error (RMSE),
 R² Score
 
 # Project Structure
-Data loading and preprocessing
-Exploratory Data Analysis (EDA)
-Model training and hyperparameter tuning
-Model evaluation and comparison
+Data loading and preprocessing,
+Exploratory Data Analysis (EDA),
+Model training and hyperparameter tuning,
+Model evaluation and comparison,
 Conclusion on model performance
 
 # Libraries Used
-pandas, numpy
-matplotlib, seaborn
-scikit-learn
+pandas, numpy,
+matplotlib, seaborn,
+scikit-learn,
 statsmodels
 
 # How to Run
